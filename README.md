@@ -1,2 +1,2 @@
-khizar
+khizar Hameed
 # ubuntuu
